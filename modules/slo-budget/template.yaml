@@ -1,0 +1,5 @@
+name: SLO error budget
+description: >-
+  Turns an availability objective into an error budget: how many minutes of
+  downtime, and how many failed requests, the window allows.
+tags: [observability, slo, reliability]

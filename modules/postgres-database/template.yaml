@@ -1,0 +1,5 @@
+name: Postgres database
+description: >-
+  A managed PostgreSQL instance with a generated admin password, a parameter
+  group, and one database and owner role per application.
+tags: [database, postgres]

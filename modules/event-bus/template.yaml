@@ -1,0 +1,5 @@
+name: Event bus
+description: >-
+  An event bus with routing rules. Each rule matches events by source and
+  detail type and fans them out to one or more targets.
+tags: [messaging, events]

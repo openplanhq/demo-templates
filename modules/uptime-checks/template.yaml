@@ -1,0 +1,5 @@
+name: Uptime checks
+description: >-
+  Synthetic HTTP checks run from several regions against your public
+  endpoints, each with an interval and the status it expects.
+tags: [observability, monitoring]

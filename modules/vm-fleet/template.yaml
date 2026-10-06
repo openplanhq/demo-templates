@@ -1,0 +1,5 @@
+name: VM fleet
+description: >-
+  A fleet of virtual machines, each with a generated hostname and its own
+  cloud-init user data that installs packages and writes a motd.
+tags: [compute, virtual-machines, cloud-init]

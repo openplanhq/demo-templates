@@ -1,0 +1,5 @@
+name: Service mesh mTLS
+description: >-
+  A mesh certificate authority and a workload certificate signed by it for
+  every service, so services authenticate each other with mutual TLS.
+tags: [networking, tls, mesh]

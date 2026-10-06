@@ -1,0 +1,5 @@
+name: SSH key pair
+description: >-
+  A new SSH key pair for bastion or deploy access. The public key is output
+  in authorized_keys form with its fingerprint; the private key stays secret.
+tags: [security, ssh]

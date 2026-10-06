@@ -1,0 +1,6 @@
+name: VPC network
+description: >-
+  A private network with a public and a private subnet in every availability
+  zone, and a NAT gateway per zone for outbound traffic. Subnet ranges are
+  carved from the network's CIDR block.
+tags: [networking, vpc]

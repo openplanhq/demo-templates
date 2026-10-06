@@ -1,0 +1,5 @@
+name: IAM roles
+description: >-
+  Roles with a trust policy naming who may assume them and an inline policy
+  of allowed actions, rendered as policy documents.
+tags: [security, iam]

@@ -1,0 +1,5 @@
+name: Service accounts
+description: >-
+  Machine identities for workloads, each with an access key that rotates on
+  a schedule, so a new key is planned once the rotation period passes.
+tags: [security, identity]

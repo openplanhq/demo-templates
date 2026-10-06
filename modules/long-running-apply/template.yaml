@@ -1,0 +1,5 @@
+name: Long-running apply
+description: >-
+  Takes as long as you tell it to. Three steps sleep in turn, so a run stays
+  in progress long enough to watch its logs stream, or to cancel it.
+tags: [demo, testing]

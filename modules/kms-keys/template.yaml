@@ -1,0 +1,5 @@
+name: Encryption keys
+description: >-
+  Customer-managed encryption keys with aliases, each scoped to one use and
+  rotated on its own schedule.
+tags: [security, encryption]

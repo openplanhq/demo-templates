@@ -1,0 +1,5 @@
+name: Pub/Sub topics
+description: >-
+  Topics and their subscriptions. Each subscription is either a pull
+  subscription or pushes to an HTTPS endpoint, with an optional filter.
+tags: [messaging, pubsub]

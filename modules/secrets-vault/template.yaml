@@ -1,0 +1,5 @@
+name: Secrets vault
+description: >-
+  A secrets store holding generated secrets at the lengths and character sets
+  you choose. Only the secret names and versions leave the module.
+tags: [security, secrets]

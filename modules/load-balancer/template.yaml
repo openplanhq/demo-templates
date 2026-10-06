@@ -1,0 +1,5 @@
+name: Load balancer
+description: >-
+  An application load balancer with one listener per port and a target group
+  behind each, health-checked on the path you choose.
+tags: [networking, load-balancing]

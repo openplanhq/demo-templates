@@ -1,0 +1,5 @@
+name: API gateway
+description: >-
+  An HTTP API gateway with routes to backend integrations, a stage with
+  throttling, and a usage plan per consumer tier.
+tags: [application, api, networking]

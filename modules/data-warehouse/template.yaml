@@ -1,0 +1,5 @@
+name: Data warehouse
+description: >-
+  Analytics datasets and the tables in each, with partitioning and a default
+  table expiry, plus read access for the groups you name.
+tags: [database, analytics, warehouse]

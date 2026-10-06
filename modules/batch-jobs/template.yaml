@@ -1,0 +1,5 @@
+name: Batch jobs
+description: >-
+  A compute environment, a job queue and scheduled job definitions, each
+  with its own container image, resources and cron schedule.
+tags: [compute, batch, scheduling]

@@ -1,0 +1,5 @@
+name: Monitoring dashboard
+description: >-
+  A dashboard rendered from a list of panels, laid out on a grid two panels
+  wide, with a time range and refresh interval. The JSON is an output.
+tags: [observability, dashboards]

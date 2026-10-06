@@ -1,0 +1,5 @@
+name: Log pipeline
+description: >-
+  A log pipeline from sources through processors to sinks, built in
+  dependency order, with sampling for noisy sources.
+tags: [observability, logging]

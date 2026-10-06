@@ -1,0 +1,5 @@
+name: GitHub repository
+description: >-
+  A repository with sensible defaults: branch protection on the default
+  branch, required status checks, team access, and a standard label set.
+tags: [delivery, github]

@@ -1,0 +1,5 @@
+name: WAF policy
+description: >-
+  A web application firewall policy: managed rule groups, a per-client rate
+  limit, an IP block list and geographic restrictions, in priority order.
+tags: [security, networking, waf]

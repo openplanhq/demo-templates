@@ -1,0 +1,5 @@
+name: Kafka cluster
+description: >-
+  An event streaming cluster with a number of brokers and the topics on it,
+  each with its own partition count, replication and retention.
+tags: [messaging, kafka, streaming]

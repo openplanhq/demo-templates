@@ -1,0 +1,6 @@
+name: Web application
+description: >-
+  A complete three-tier web application: database, cache, API servers and a
+  load balancer, created in dependency order with a generated database
+  password.
+tags: [application, three-tier]

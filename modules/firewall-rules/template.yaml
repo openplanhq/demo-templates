@@ -1,0 +1,5 @@
+name: Firewall rules
+description: >-
+  A security group and its ingress rules, each opening a port range to a list
+  of source ranges. Egress is open unless you lock it down.
+tags: [networking, security]

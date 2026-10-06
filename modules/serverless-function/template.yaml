@@ -1,0 +1,6 @@
+name: Serverless function
+description: >-
+  A function packaged from inline source into a zip archive, with an HTTP
+  trigger, environment variables and a memory size. A code change produces a
+  new archive hash and so a new version.
+tags: [compute, serverless]

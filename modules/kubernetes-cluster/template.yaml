@@ -1,0 +1,5 @@
+name: Kubernetes cluster
+description: >-
+  A managed Kubernetes control plane and its node pools. The control plane
+  takes a little while to come up, as a real one would, before the pools join.
+tags: [compute, kubernetes]

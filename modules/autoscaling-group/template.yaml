@@ -1,0 +1,5 @@
+name: Autoscaling group
+description: >-
+  A launch template and an autoscaling group built from it, with a target
+  tracking policy that scales on average CPU.
+tags: [compute, autoscaling]

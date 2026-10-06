@@ -1,0 +1,5 @@
+name: Certificate authority
+description: >-
+  A two-tier private PKI: an offline root CA and an intermediate CA it signs,
+  which is the one that issues certificates day to day.
+tags: [security, tls, pki]

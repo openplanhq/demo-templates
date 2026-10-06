@@ -1,0 +1,5 @@
+name: Maintenance window
+description: >-
+  A weekly maintenance window on the day and hour you choose, in UTC. Works
+  out when the next window opens and closes from the moment it is applied.
+tags: [operations, scheduling]

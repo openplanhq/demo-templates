@@ -1,0 +1,5 @@
+name: Redis cache
+description: >-
+  A Redis cluster with a number of shards, each with replicas, an auth token,
+  and an eviction policy suited to a cache.
+tags: [database, redis, cache]

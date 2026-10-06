@@ -1,0 +1,5 @@
+name: Tenant onboarding
+description: >-
+  Everything a new customer tenant gets on day one: a namespace, resource
+  quotas set by plan, a storage prefix, and an initial admin invite.
+tags: [operations, multi-tenant]

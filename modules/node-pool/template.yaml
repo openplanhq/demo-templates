@@ -1,0 +1,5 @@
+name: Node pool
+description: >-
+  One extra pool of worker nodes for an existing Kubernetes cluster, with
+  labels and taints so workloads can be steered onto it.
+tags: [compute, kubernetes]

@@ -1,0 +1,5 @@
+name: CDN distribution
+description: >-
+  A content delivery distribution in front of one origin, with a TLS
+  certificate for its domain and cache behaviours per path pattern.
+tags: [networking, cdn, tls]

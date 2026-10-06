@@ -1,0 +1,6 @@
+name: Failing apply
+description: >-
+  Fails on purpose. The plan succeeds, then the apply creates two resources
+  and fails a health check, leaving a partly applied stack to recover from.
+  Set fail_on_apply to false and apply again to fix it.
+tags: [demo, testing]

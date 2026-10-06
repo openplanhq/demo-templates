@@ -1,0 +1,5 @@
+name: MySQL replica set
+description: >-
+  A MySQL primary and a configurable number of read replicas, spread across
+  zones, with a reader endpoint that balances across the replicas.
+tags: [database, mysql, replication]

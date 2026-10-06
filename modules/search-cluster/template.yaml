@@ -1,0 +1,5 @@
+name: Search cluster
+description: >-
+  A search and analytics cluster with dedicated master nodes, data nodes
+  sized by storage, and index templates with shard and replica counts.
+tags: [database, search]

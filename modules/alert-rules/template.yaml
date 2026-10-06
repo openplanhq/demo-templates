@@ -1,0 +1,5 @@
+name: Alert rules
+description: >-
+  Prometheus-style alerting rules grouped for one service. Each has an
+  expression, a severity, how long it must hold, and a runbook link.
+tags: [observability, alerting]

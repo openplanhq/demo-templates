@@ -1,0 +1,5 @@
+name: CI pipeline
+description: >-
+  A delivery pipeline whose stages run in order, each re-created when its
+  inputs change. Bump the version to watch every stage re-run.
+tags: [delivery, ci]

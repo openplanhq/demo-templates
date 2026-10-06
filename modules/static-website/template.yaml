@@ -1,0 +1,5 @@
+name: Static website
+description: >-
+  Everything a static site needs end to end: a storage bucket for the files,
+  a certificate, a CDN in front, and the DNS record pointing at it.
+tags: [application, website, cdn]

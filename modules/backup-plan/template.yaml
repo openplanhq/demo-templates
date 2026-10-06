@@ -1,0 +1,5 @@
+name: Backup plan
+description: >-
+  A backup vault and a plan of scheduled rules, each with its own retention,
+  that selects resources by tag. Reports when each rule next runs.
+tags: [storage, backup, operations]

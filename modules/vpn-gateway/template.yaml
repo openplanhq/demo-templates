@@ -1,0 +1,5 @@
+name: VPN gateway
+description: >-
+  A site-to-site VPN gateway with one IPsec tunnel per peer network. Each
+  tunnel gets its own generated pre-shared key.
+tags: [networking, vpn]

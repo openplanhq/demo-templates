@@ -1,0 +1,5 @@
+name: Feature flags
+description: >-
+  Feature flags for one environment, each on, off, or rolled out to a
+  percentage of users, published as a JSON document clients read.
+tags: [application, feature-flags]

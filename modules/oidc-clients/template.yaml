@@ -1,0 +1,5 @@
+name: OIDC clients
+description: >-
+  OAuth/OIDC client registrations for your applications: redirect URIs,
+  allowed scopes, and a generated secret for confidential clients.
+tags: [security, identity, oauth]

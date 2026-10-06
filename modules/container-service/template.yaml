@@ -1,0 +1,5 @@
+name: Container service
+description: >-
+  A long-running container service: a task definition with one or more
+  containers, a service that keeps the desired count running, and log groups.
+tags: [compute, containers]

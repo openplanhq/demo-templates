@@ -1,0 +1,5 @@
+name: DNS zone
+description: >-
+  A hosted DNS zone and the records in it. Records are given as a list, each
+  with a name, type, value and an optional TTL.
+tags: [networking, dns]

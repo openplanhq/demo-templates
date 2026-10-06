@@ -1,0 +1,6 @@
+name: Subnet plan
+description: >-
+  Carves an address space into named subnets of the sizes you ask for, and
+  reports each one's range, gateway and usable host count. Useful before any
+  network is built.
+tags: [networking, ipam]

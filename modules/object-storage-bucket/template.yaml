@@ -1,0 +1,5 @@
+name: Object storage bucket
+description: >-
+  A globally unique storage bucket with versioning, encryption, public access
+  blocked, and lifecycle rules that move or expire objects by prefix.
+tags: [storage, buckets]

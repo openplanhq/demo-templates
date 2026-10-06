@@ -1,0 +1,6 @@
+name: Environment bootstrap
+description: >-
+  The conventions every new environment starts with: a naming prefix, a
+  standard tag set with owner and cost centre, and a record of when the
+  environment was created.
+tags: [operations, conventions]

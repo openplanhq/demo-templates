@@ -1,0 +1,5 @@
+name: Message queues
+description: >-
+  Work queues, each paired with a dead-letter queue that catches messages
+  which fail too many times. FIFO queues keep strict ordering.
+tags: [messaging, queues]
