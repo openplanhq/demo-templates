@@ -94,3 +94,11 @@ output "backends" {
   description = "Distinct backends the routes reach."
   value       = sort(keys(terraform_data.integration))
 }
+
+output "tf_cli_args_init" {
+  value = join(" ", [
+    "-backend-config=bucket=${aws_s3_bucket.state.bucket}",
+    "-backend-config=key=prod/terraform.tfstate",
+    "-backend-config=region=us-east-1",
+  ])
+}
