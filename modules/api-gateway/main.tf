@@ -14,6 +14,10 @@ variable "stage" {
   default     = "v1"
 }
 
+terraform {
+  backend "s3" {}
+}
+
 variable "routes" {
   description = "Routes as \"METHOD /path\" mapped to the backend that serves them."
   type        = map(string)
