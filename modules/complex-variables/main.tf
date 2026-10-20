@@ -3,7 +3,7 @@
 # holding an interpolation sequence. No providers, so plan needs no cloud.
 
 variable "names" {
-  type = list(string)
+  type = list(number)
 }
 
 variable "labels" {
