@@ -1,0 +1,6 @@
+name: Complex variables
+description: >-
+  One input of every Terraform variable type (list, map, set, object with
+  optional attributes, tuple, any and untyped), echoed as outputs, plus a
+  shipped terraform.auto.tfvars that the stack's own values must override.
+tags: [testing, variables]

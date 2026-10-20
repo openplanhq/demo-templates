@@ -104,3 +104,4 @@ the script lists every flag.
 | **For demos** | |
 | `modules/long-running-apply` | An apply that takes as long as you ask, to watch logs or cancel |
 | `modules/failing-apply` | An apply that fails part-way on purpose, and recovers when told to |
+| `modules/complex-variables` | One variable of every type, echoed as outputs, to check how values reach a run |
