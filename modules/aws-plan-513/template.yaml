@@ -1,0 +1,5 @@
+name: AWS plan (memory check)
+description: >-
+  Eleven AWS resources for a plan with fake keys. Plan only; an apply would
+  call AWS.
+tags: [testing]
