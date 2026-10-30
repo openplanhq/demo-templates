@@ -1,0 +1,7 @@
+name: Sensitive variables
+description: >-
+  Two sensitive inputs, a required password and an optional multi-line key,
+  whose SHA-256 hashes come back as outputs, so a run shows each value
+  arrived intact without printing it. Set them as Environment secrets
+  TF_VAR_db_password and TF_VAR_ssh_private_key.
+tags: [testing, variables]
